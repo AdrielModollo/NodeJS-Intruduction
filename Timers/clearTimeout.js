@@ -4,4 +4,4 @@ const timeOut = 3000
 const finished = () => console.log('done!')
 
 let timer = setTimeout(finished, timeOut)
-clearTimeout(timer)
+clearTimeout(timer) //cancelar qualquer timeOut dentro da app
