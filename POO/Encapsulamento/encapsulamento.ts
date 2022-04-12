@@ -1,1 +1,1 @@
-console.log("teste 3 contabilização de commits")
+console.log("teste 4 contabilização de commits")
